@@ -51,3 +51,7 @@ Most labs are on Jupyter Notebooks, only the last module is done on IBM Cognos A
 This module is in IBM Cognos Analytics, at this moment the link may have expired.
 
 - [Building a dashboard with Cognos Dashboard Embedded](https://dataplatform.cloud.ibm.com/dashboards/4e33ed96-f30e-4d96-bd72-d25cd4c57942/view/0f08dc763fb36ff645deb5e407992f0f7c312559b2bbd151888c7b4959682097a9681b99c87c190b8e115131a2ec445f9f)
+
+<img src="/Assets/DashIBM1.png" width="960" height="540"/>
+<img src="/Assets/DashIBM2.png" width="960" height="540"/>
+<img src="/Assets/DashIBM3.png" width="960" height="540"/>
